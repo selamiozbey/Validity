@@ -26,6 +26,7 @@ public class Constants {
 
     public static final  int LEVENSHTEIN_SIMILARITY_FACTOR = 3;
     public static final  int METAPHONE_SIMILARITY_FACTOR = 0;
+    
 
 
 }
